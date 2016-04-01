@@ -11,5 +11,12 @@ an offset in seconds, a call is made to Google Map API to determine
 in which time zone the place is located, and if daylight saving time
 is observed at the moment of the requested time stamp.
 
+This is a single function in Go (golang). Copy/paste as needed.
+To test it out, run:
+
+    go run tz.go
+
+Enjoy!
+
 MIT License (c) nicolas314
 
